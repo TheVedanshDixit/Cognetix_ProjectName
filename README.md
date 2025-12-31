@@ -1,7 +1,7 @@
-# Project Name
+# Cogentix_ProjectName
 
 ## Objective
-Briefly describe the project goal.
+ALL project of Machine Learning of Cogenetix
 
 ## Dataset
 Source of dataset (Kaggle / UCI / MovieLens etc.)
